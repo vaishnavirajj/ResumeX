@@ -187,9 +187,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@resumex.com
+- 📧 Email: vaishnaviraj950@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/vaishnavirajj/ResumeX/issues)
-- 📖 Documentation: [Wiki](https://github.com/vaishnavirajj/ResumeX/wiki)
 
 ---
 
