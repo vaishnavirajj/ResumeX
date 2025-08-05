@@ -3,8 +3,6 @@
 
 > **Smart feedback for your dream job** -Get AI-powered resume analysis, ATS scoring, and personalized improvement tips to land your next role.
 
-![ResumeX Dashboard](public/readme/hero.webp)
-
 ## ✨ Features
 
 ### 🤖 AI-Powered Analysis
